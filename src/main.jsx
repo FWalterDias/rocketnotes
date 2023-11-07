@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-import './index.css';
 import { MyRouts } from './routes.jsx';
 import { ThemeProvider } from 'styled-components';
 import theme  from "./styles/theme.js";
