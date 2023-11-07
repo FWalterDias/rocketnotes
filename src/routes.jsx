@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
-import { Detail } from './pages/Detail';
+import { Detail } from './pages/Details';
 
 
 export function MyRouts() {
